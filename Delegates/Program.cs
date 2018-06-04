@@ -10,6 +10,7 @@ namespace Delegates
     {
         static void Main(string[] args)
         {
+
             AnotherClass ac = new AnotherClass();
             DelegateExample de = new DelegateExample();
             SampleDelegate sd = new SampleDelegate(ac.Method1);
