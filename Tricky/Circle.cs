@@ -12,7 +12,7 @@ namespace Tricky
         public Circle(int x, int y) :base(x,y)
         {
         }
-
+         
 
         public void CircleFillColor()
         {
